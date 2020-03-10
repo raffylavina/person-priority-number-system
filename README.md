@@ -5,4 +5,12 @@
 ####         Medication 
 ####         Consultation 
 ##### Print priority number
-##### The system can print 100 priority number only a day
+##### The system can print 100 priority number only in a day
+
+
+# Case Diagram
+#### user - Input Complet Name
+####      - Choose Purpose
+
+#### Include - Verify What priority number you have
+#### extends - print priority number
