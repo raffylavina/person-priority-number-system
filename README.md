@@ -1,6 +1,6 @@
 # person-priority-number-system
-## Features 
-### Please input your complet name
+# Features 
+#### Please input your complet name
 #### Purpose:
 #####    Medication 
 #####    Consultation 
