@@ -5,7 +5,7 @@
 ####         Medication 
 ####         Consultation 
 ##### Print priority number
-##### The system can print 100 priority number only in a day
+##### The system can print 100 priority number only in a day <h1>
 
 
 #### Case Diagram <h1>
