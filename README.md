@@ -8,9 +8,9 @@
 ##### The system can print 100 priority number only in a day
 
 
-# Case Diagram
+#### Case Diagram
 #### user - Input Complet Name
-####      - Choose Purpose
+#### user - Choose Purpose
 
 #### Include - Verify What priority number you have
 #### extends - print priority number
