@@ -1,9 +1,9 @@
 # person-priority-number-system
 
-#Features <h1> tag 
+#Features <h1> 
   *Please input your complet name*
-  #Purpose:<h1> tag
-        * Medication*
-        * Consultation*
-  #Print priority number<h1> tag
-  #The system can print 100 priority number only a day<h1> tag
+  *Purpose:
+        * Medication
+        * Consultation
+  #Print priority number<h1> 
+  #The system can print 100 priority number only a day
