@@ -1,5 +1,5 @@
 # person-priority-number-system
-#### Features: 
+#### Features: <h1> 
 #### Please input your complet name
 #### Purpose:
 ####         Medication 
@@ -8,7 +8,7 @@
 ##### The system can print 100 priority number only in a day
 
 
-#### Case Diagram
+#### Case Diagram <h1>
 #### user - Input Complet Name
 #### user - Choose Purpose
 
