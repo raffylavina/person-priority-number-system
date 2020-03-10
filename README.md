@@ -7,8 +7,8 @@
 ##### Print priority number
 ##### The system can print 100 priority number only in a day
 
-<h1>
-#### Case Diagram 
+
+#### <h1> Case Diagram 
 #### user - Input Complet Name
 #### user - Choose Purpose
 
