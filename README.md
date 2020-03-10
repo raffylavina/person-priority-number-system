@@ -3,6 +3,6 @@
 #### Please input your complet name
 #### Purpose:
 >Medication 
->Consultation 
+>>Consultation 
 ##### Print priority number
 ##### The system can print 100 priority number only a day
